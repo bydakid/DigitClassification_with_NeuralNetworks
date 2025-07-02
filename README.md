@@ -20,6 +20,5 @@ Inspired by classic MNIST examples, this project aims to bridge the gap between 
 - **Frontend**: HTML5 Canvas, JavaScript  
 - **Machine Learning**: TensorFlow.js (or equivalent)  
 - **Model**: Pre-trained convolutional neural network (e.g. trained on MNIST)  
-- **Hosting**: Static web hosting via GitHub Pages / Netlify (or similar)
 
 Link -> https://bydakid.com/digit/digit
